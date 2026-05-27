@@ -1,0 +1,6 @@
+{
+  "name": "ألحان",
+  "description": "مشغل موسيقى احترافي متميز مع مؤقت نوم ذكي، إدارة ذكية للمجلدات والأغاني المخفية، ونظام مفضلة ديناميكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
